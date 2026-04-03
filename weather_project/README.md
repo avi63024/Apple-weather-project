@@ -156,9 +156,4 @@ The Streamlit chatbot works in two modes:
 - without an OpenAI API key, it answers using the local SQLite-backed weather analysis
 - with an OpenAI API key pasted into the sidebar, it uses OpenAI with grounded database context
 
-## Suggested submission package
 
-1. Code repo: this `weather_project` folder
-2. Database schema overview: this README
-3. Jupyter notebook: `notebook/analysis.ipynb`
-4. Chatbot demo recording: record `python3 scripts/chatbot.py --demo`
